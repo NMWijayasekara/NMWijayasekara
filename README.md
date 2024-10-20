@@ -34,6 +34,8 @@
 
 ###
 
+<br clear="both">
+
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="40" alt="go logo"  />
   <img width="12" />
@@ -128,6 +130,8 @@
 </div>
 
 ###
+
+<br clear="both">
 
 <img src="https://raw.githubusercontent.com/NMwijayasekara/NMwijayasekara/output/snake.svg" alt="Snake animation" />
 
