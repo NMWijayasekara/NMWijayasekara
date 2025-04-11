@@ -123,21 +123,3 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=NMwijayasekara&radius=16&theme=one-dark&area=true&order=5&hide_border=true&hide_title=true" height="300" alt="activity-graph graph"  />
   <img src="https://github-profile-trophy.vercel.app?username=NMwijayasekara&theme=onedark&column=-1&row=2&margin-w=8&margin-h=8&no-bg=false&no-frame=true&order=4" height="150" alt="trophy graph"  />
 </div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/NMwijayasekara/NMwijayasekara/output/snake.svg" alt="Snake animation" />
-
-###
-
-<br clear="both">
-
-<div align="right">
-  <a href="https://open.spotify.com/user/42hpnwokkxgw6oqyvmf2tpd7g">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=42hpnwokkxgw6oqyvmf2tpd7g&count=5&unique=false" alt="Spotify recently played"  />
-  </a>
-</div>
-
-###
