@@ -21,7 +21,7 @@
 
 ###
 
-<p align="left">I'm Nathan Wijayasekara a Software Engineer from Sri Lanka<br><br>- 🔭 I’m currently working on [flowstry.com] (https://flowstry.com)<br><br>- ⚡ In my free time I learn new technologies and work on my own projects</p>
+<p align="left">I'm Nathan Wijayasekara a Software Engineer from Sri Lanka<br><br>- 🔭 I’m currently working on [flowstry] (https://flowstry.com)<br><br>- ⚡ In my free time I learn new technologies and work on my own projects</p>
 
 ###
 
